@@ -29,8 +29,6 @@
 | [@창준](https://github.com/ckdwns1221)           | [@예진](https://github.com/uiop5809)            | [@윤기](https://github.com/Suh-code)            | [@수빈](https://github.com/subinsong01)         | [@성혁](https://github.com/LeeSunghuck)         | [@은석](https://github.com/EunSeok-222)         |
 | **FE+BE**   | **FE+BE**   |  **FE+BE**   |  **FE+BE**      |  **FE+BE**     |  **FE+BE**                                           |
 
-<br/>
-
 ## 🧡 각 멤버 작업 내역
 
 <details>
@@ -204,3 +202,5 @@
           <th>Notion</th>
         </tr>
   </table>
+  
+  ## 🧡 Demo 영상
