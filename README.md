@@ -25,8 +25,9 @@
 
 | <img src="https://github.com/user-attachments/assets/72002eba-1021-4117-b4a0-fb4e2887f4e9" alt="고창준" width="150"> | <img src="https://github.com/user-attachments/assets/2ddbc7ac-d1b2-4e22-94be-b6e2bd9a4b56" alt="박예진" width="150"> | <img src="https://github.com/user-attachments/assets/6e49c5a0-272f-4a32-89b2-c643138a91bf" alt="서윤기" width="150"> | <img src="https://github.com/user-attachments/assets/ddeca24c-0270-46fd-9e55-25a4b78e0469" alt="송수빈" width="150"> | <img src="https://github.com/user-attachments/assets/22a45437-0e50-48b8-acda-df770335c7ca" alt="이성혁" width="150"> | <img src="https://github.com/user-attachments/assets/62cbbefe-6a31-46f1-be30-9daa8bd3c079" alt="이은석" width="150"> |
 |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| **고창준**                                       | **박예진**                                       | **서윤기**                                       | **송수빈**                                       | **이성혁**                                       | **이은석**                                       |
+| **고창준**                                       | **박예진**                                       | **서윤기[팀장]**                                       | **송수빈**                                       | **이성혁**                                       | **이은석**                                       |
 | [@창준](https://github.com/ckdwns1221)           | [@예진](https://github.com/uiop5809)            | [@윤기](https://github.com/Suh-code)            | [@수빈](https://github.com/subinsong01)         | [@성혁](https://github.com/LeeSunghuck)         | [@은석](https://github.com/EunSeok-222)         |
+| **FE+BE**   | **FE+BE**   |  **FE+BE**   |  **FE+BE**      |  **FE+BE**     |  **FE+BE**                                           |
 
 <br/>
 
