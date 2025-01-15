@@ -118,7 +118,7 @@
 | **5️⃣ 건강 관리**      | - 건강 관리 등록<br> - 건강 관리 기록 |
 
 ## 🧡 WBS 
-<img width="500" alt="스크린샷 2025-01-15 오후 3 55 31" src="https://github.com/user-attachments/assets/2e11573f-c76f-4290-9c85-80eb02fa9ce1" /><img width="500" alt="wbs" src="https://github.com/user-attachments/assets/feeaf2e0-c859-43b5-b8aa-34a27d6c5586" />
+<img width="480" alt="스크린샷 2025-01-15 오후 3 55 31" src="https://github.com/user-attachments/assets/2e11573f-c76f-4290-9c85-80eb02fa9ce1" /><img width="480" alt="wbs" src="https://github.com/user-attachments/assets/feeaf2e0-c859-43b5-b8aa-34a27d6c5586" />
 
 ## 🧡 IA(Information Architecture)
 <img width="1186" alt="IA" src="https://github.com/user-attachments/assets/758f0c26-bfdf-4614-8c18-4e5fdc28b287" />
