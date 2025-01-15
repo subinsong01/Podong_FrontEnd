@@ -9,9 +9,20 @@
 - 🔗 <a href="https://github.com/URECA-PODONG/FrontEnd"> FrontEnd Repository </a> <br/>
 - 🔗  <a href="https://github.com/URECA-PODONG/Back_End"> BackEnd Repository </a>
 
+<br/>
+
+## 🧡 프로젝트 개요 
+> <a href="https://docs.google.com/forms/d/1fRyFRJeYbuOKwvVVzc1SaPxKlxzJ3QR8Ks2v7f9KnvA/edit"> 발바닥 천국 설문조사 </a> <br/>
+
+<img width="1078" alt="스크린샷 2025-01-15 오후 3 41 58" src="https://github.com/user-attachments/assets/d3b5118b-fabe-49d5-a1e2-acf157c14e17" />
+
+진행된 설문조사를 바탕으로 커머스 시스템 외에도 새로운 기능을 추가했습니다.
+
+<br/>
 
 ## 🧡 개발 기간
 **2024.10.21-2024.11.08**
+<br/>
 
 ## 🧡 발바닥 천국 멤버 
 
@@ -21,6 +32,7 @@
 | **고창준**                                       | **박예진**                                       | **서윤기**                                       | **송수빈**                                       | **이성혁**                                       | **이은석**                                       |
 | [@창준](https://github.com/ckdwns1221)           | [@예진](https://github.com/uiop5809)            | [@윤기](https://github.com/Suh-code)            | [@수빈](https://github.com/subinsong01)         | [@성혁](https://github.com/LeeSunghuck)         | [@은석](https://github.com/EunSeok-222)         |
 
+<br/>
 
 ## 🧡 각 멤버 작업 내역
 
@@ -63,7 +75,7 @@
 </details>
 
 <details>
-**<summary>송수빈</summary>**
+<summary>송수빈</summary>
 
 - 반려동물 등록 CRUD  
 - 피그마 디자인  
@@ -72,7 +84,6 @@
 - 마이페이지 퍼블리싱  
 - 반려동물 실종 등록 구현 및 퍼블리싱  
 - PPT 제작  
-- README 정리
 - README 작업 
 
 </details>
@@ -110,3 +121,15 @@
 | **3️⃣ 산책 & 추천**    | - 산책 경로<br> - 산책 일지<br> - 산책 코스 추천 |
 | **4️⃣ 실종 등록 & 알림**| - 실종 등록<br> - 실종 알림 |
 | **5️⃣ 건강 관리**      | - 건강 관리 등록<br> - 건강 관리 기록 |
+
+## 🧡 ERD 
+<a href="https://www.erdcloud.com/d/GLC58mKiwxz4YA5YM"> **🔗 발바닥천국 ERD 확인하기**</a>
+
+## 🧡 API
+<a href="https://www.notion.so/API-1265beee815a8027a915edd612c247be?pvs=4">**🔗 API 명세서 확인하기**</a>
+<br />
+
+## 🧡 Figma
+<a href="https://www.figma.com/design/Qjz3Xw3RkxdJDadMWL8rWo/%EB%B0%9C%EB%B0%94%EB%8B%A5%EC%B2%9C%EA%B5%AD?node-id=0-1&m=dev&t=61Y54Y8ShTrU1aAI-1"> **🔗 Figma 확인하기**</a>
+
+
