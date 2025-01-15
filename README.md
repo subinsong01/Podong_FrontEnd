@@ -6,8 +6,8 @@
 사랑과 관심을 가득 담은 다양한 상품들을 발바닥 천국에서 만나보세요! 🥳✨
 
 - 🔗 <a href="podong-front-end.vercel.app"> 서비스 둘러보기: 발바닥천국 공식 웹사이트 </a>
-- 🔗 <a href="https://github.com/URECA-PODONG/FrontEnd"> FrontEnd Repository </a> <br/>
-- 🔗  <a href="https://github.com/URECA-PODONG/Back_End"> BackEnd Repository </a>
+- 🔗 <a href="https://github.com/URECA-PODONG/FrontEnd"> Frontend Repository </a> <br/>
+- 🔗  <a href="https://github.com/URECA-PODONG/Back_End"> Backend Repository </a>
 
 ## 🧡 프로젝트 개요 
 > <a href="https://docs.google.com/forms/d/1fRyFRJeYbuOKwvVVzc1SaPxKlxzJ3QR8Ks2v7f9KnvA/edit"> 발바닥 천국 설문조사 </a> <br/>
