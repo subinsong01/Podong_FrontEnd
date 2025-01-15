@@ -9,16 +9,12 @@
 - 🔗 <a href="https://github.com/URECA-PODONG/FrontEnd"> FrontEnd Repository </a> <br/>
 - 🔗  <a href="https://github.com/URECA-PODONG/Back_End"> BackEnd Repository </a>
 
-<br/>
-
 ## 🧡 프로젝트 개요 
 > <a href="https://docs.google.com/forms/d/1fRyFRJeYbuOKwvVVzc1SaPxKlxzJ3QR8Ks2v7f9KnvA/edit"> 발바닥 천국 설문조사 </a> <br/>
 
 <img width="1078" alt="스크린샷 2025-01-15 오후 3 41 58" src="https://github.com/user-attachments/assets/d3b5118b-fabe-49d5-a1e2-acf157c14e17" />
 
 진행된 설문조사를 바탕으로 커머스 시스템 외에도 새로운 기능을 추가했습니다.
-
-<br/>
 
 ## 🧡 개발 기간
 **2024.10.21-2024.11.08**
@@ -122,14 +118,88 @@
 | **4️⃣ 실종 등록 & 알림**| - 실종 등록<br> - 실종 알림 |
 | **5️⃣ 건강 관리**      | - 건강 관리 등록<br> - 건강 관리 기록 |
 
+## 🧡 WBS 
+<img width="500" alt="스크린샷 2025-01-15 오후 3 55 31" src="https://github.com/user-attachments/assets/2e11573f-c76f-4290-9c85-80eb02fa9ce1" /><img width="500" alt="wbs" src="https://github.com/user-attachments/assets/feeaf2e0-c859-43b5-b8aa-34a27d6c5586" />
+
+## 🧡 IA(Information Architecture)
+<img width="1186" alt="IA" src="https://github.com/user-attachments/assets/758f0c26-bfdf-4614-8c18-4e5fdc28b287" />
+
 ## 🧡 ERD 
 <a href="https://www.erdcloud.com/d/GLC58mKiwxz4YA5YM"> **🔗 발바닥천국 ERD 확인하기**</a>
 
 ## 🧡 API
 <a href="https://www.notion.so/API-1265beee815a8027a915edd612c247be?pvs=4">**🔗 API 명세서 확인하기**</a>
-<br />
 
 ## 🧡 Figma
 <a href="https://www.figma.com/design/Qjz3Xw3RkxdJDadMWL8rWo/%EB%B0%9C%EB%B0%94%EB%8B%A5%EC%B2%9C%EA%B5%AD?node-id=0-1&m=dev&t=61Y54Y8ShTrU1aAI-1"> **🔗 Figma 확인하기**</a>
 
+## 🧡 System Architecture
 
+<img width="800" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/e236bb9f-c0bc-4543-9759-603b7a50baac" />
+
+## 🧡 배포 프로세스
+<br/>
+<img width="800"  alt="배포 프로세스" src="https://github.com/user-attachments/assets/94ea1a5e-7dcf-4206-9c7b-42d228e6bec7" />
+
+## 🧡 기술 스택
+<h3>FrontEnd</h3>
+<table>
+  <tr>
+    <td><img width="100" src="https://camo.githubusercontent.com/5206020f736992bcb8c69db0378b675c6a0bc868c1d7d7bcb6605bfbbde8ad2b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="html"></td>
+     <td><img width="100" src="https://images-ext-1.discordapp.net/external/jvLCZImVaQOR4o5hqrq8J7gVR-J4hwg8SJSwA0jenLQ/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1710061458/noticon/wcbbvx44ppavzhuptuwd.png?format=webp&quality=lossless&width=400&height=400" alt="styled-component"></td>
+    <td><img width="100" src="https://camo.githubusercontent.com/65e0cf3127cd71af7cf9e4da84a7370bbd445bb949ba9fbb06ee0d3dc7a634fb/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="js"></td>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/KBcTLO8mxeMn4SFQ_WBE3UJ7cOvUHvzmGkTHn08BZM8/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679535484/noticon/arqfoi6i7gubuqkpigud.png?format=webp&quality=lossless&width=400&height=400" alt="vite"></td>
+    <td><img width="100" src="https://camo.githubusercontent.com/cc4e0bd91b89404a61e0f207ea47434aeb615edec6d4f6bcb7523680d64ea06b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react"></td>
+  
+  </tr>
+   <tr>
+    <th>HTML</th>
+    <th>Styled</th>
+    <th>JS</th>
+    <th>Vite</th>
+    <th>React</th>
+  </tr>
+</table>
+<h3>BackEnd</h3>
+<table>
+  <tr>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/rVQuC6iv7sjbq3WpN6HIo25xoOGOED0_wFXDi5ItXWg/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png?format=webp&quality=lossless&width=400&height=400" alt="spring boot"></td>
+<td><img width="100" src="https://images-ext-1.discordapp.net/external/H14Nnyr7VzWus90kpcLNlQ83N_FG6qwdU7E0xQqAWKs/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png?format=webp&quality=lossless&width=400&height=400" alt="mysql"></td>
+<td><img width="100" src="https://images-ext-1.discordapp.net/external/xPY0xedRgjP2QmgXUm_tyRmxGix6hZAf66AIXzESgZs/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568175385/noticon/iodu1jssf0kwe4oie2dt.png?format=webp&quality=lossless&width=400&height=400" alt="docker"></td>
+<td><img width="100" src="https://images-ext-1.discordapp.net/external/0oYbouvj0yfZJrE2HcvnrLIi1XaRvzFTO0bTD5EE2YM/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777755/noticon/yfmwxv8nhnr5aqaxhxpg.png?format=webp&quality=lossless&width=400&height=400" alt="aws"></td>
+<td><img width="100" src="https://images-ext-1.discordapp.net/external/r7AMXUsT0fZFCTBXVJbZuLOoNuKPVgyrwDzFqau4PXQ/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567064876/noticon/sb5llmvfubuceldbkmx8.png?format=webp&quality=lossless&width=400&height=400" alt="s3"></td>
+  </tr>
+   <tr>
+    <th>Spring boot</th>
+    <th>MySQL</th>
+    <th>Docker</th>
+    <th>AWS</th>
+    <th>S3</th>
+  </tr>
+</table>
+
+<h3>CI/Cd</h3>
+<table>
+  <tr>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/64gUc-2YomqC0USAGcDN2HYMb2Pb8VvLDBuaUleeit4/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1673248072/noticon/uj1sljza7nnsj0lpilwk.png?format=webp&quality=lossless&width=400&height=400" alt="github action"></td>
+     <td><img width="100" src="https://images-ext-1.discordapp.net/external/gBI7WFAgYgsCZ7FzEJ1tEAuhXNSEPvwTIv-82Q4gfEQ/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png?format=webp&quality=lossless&width=400&height=400"alt="vercel"
+  </tr>
+  <tr>
+    <th>Github action</th>
+    <th>Vercel</th>
+  </tr>
+</table>
+
+<h3>Communication</h3>
+<table>
+  <tr>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/xW2pjW1THv1Zdzo_NWk1EuIoL5j7hWHVK9LvG7pD_AA/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640152045/noticon/albswwsjaaxvxbyhmwig.png?format=webp&quality=lossless&width=400&height=400" alt="discord"></td>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/azXealsvy6EBai5UV6z3mP0QOVcwPnKAxH5o7jhRs8Y/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1608448196/noticon/a0fgk99dgqtyrwwmqsbt.png?format=webp&quality=lossless&width=400&height=400" alt="figma"></td>
+    <td><img width="100" src="https://images-ext-1.discordapp.net/external/HmQy4lniRwIGodKeYCEnxF1dM_bLyuYJ41ju7zIQ6Mc/https/noticon-static.tammolo.com/dgggcrkxq/image/upload/v1633514562/noticon/jodwxqluutquo62s82de.png?format=webp&quality=lossless&width=400&height=400" alt="notion"></td>
+      </tr>
+        <tr>
+          <th>Discord </th>
+          <th>Figma</th>
+          <th>Notion</th>
+        </tr>
+  </table>
