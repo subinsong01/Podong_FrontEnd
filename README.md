@@ -205,5 +205,4 @@
           <th>Notion</th>
         </tr>
   </table>
-  
-  ## 🧡 Demo 영상
+
